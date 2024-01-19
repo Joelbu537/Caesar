@@ -4,7 +4,7 @@ class Program
     static void Main(string[] args)
     {
         const string ALPHABET = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz";
-        Console.Title = ALPHABET;
+        Console.Title = "Caesar";
         while(true)
         {
             Console.Clear();
