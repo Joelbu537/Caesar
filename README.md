@@ -1,4 +1,5 @@
 # Caesar Cryptography Tool
+Author: Joelbu537
 ## Usecase
 Caesar can be used to de/encrypt simple string messages.
 
