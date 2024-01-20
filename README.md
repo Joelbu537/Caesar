@@ -17,7 +17,7 @@ Caesar is going to process the phrase and pring the in -and output.
 
 ### Example
 
-***String:***  Hello World
-***Encryption level (Use negative numbers to decode):***  17
-***Input:  HELLO WORLD***
-***Output: yvccfnficu***
+***String:***  Hello World♪
+***Encryption level (Use negative numbers to decode):***  17♪
+***Input:  HELLO WORLD***♪
+***Output: yvccfnficu***♪
