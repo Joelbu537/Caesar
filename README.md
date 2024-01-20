@@ -16,5 +16,8 @@ Simply enter the phrase/string you want to work with and press enter.
 **To decrypt**, enter the encryption key multiplied by -1. You (of course) need to know the key used to encrypt the message.
 Caesar is going to process the phrase and pring the in -and output.
 
-> [!EXAMPLE]
-> hello
+> [!TIP]
+> String: ***Hello World***
+> Encryption level (Use negative numbers to decode): ***8***
+> Input:  HELLO WORLD
+> Output: pmttwewztl
