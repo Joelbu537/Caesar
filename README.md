@@ -14,3 +14,10 @@ Simply enter the phrase/string you want to work with and press enter.
 **To encrypt**, enter a encryption key of your favor(A number beween -25 and 25).
 **To decrypt**, enter the encryption key multiplied by -1. You (of course) need to know the key used to encrypt the message.
 Caesar is going to process the phrase and pring the in -and output.
+
+### Example
+
+**_String: _**Hello World
+**_Encryption level (Use negative numbers to decode): _** 17
+**_Input:  HELLO WORLD_**
+**_Output: yvccfnficu_**
