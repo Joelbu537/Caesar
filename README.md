@@ -17,7 +17,7 @@ Simply enter the phrase/string you want to work with and press enter.
 Caesar is going to process the phrase and pring the in -and output.
 
 > [!TIP]
-> String: ***Hello World***
-> Encryption level (Use negative numbers to decode): ***8***
-> Input:  HELLO WORLD
-> Output: pmttwewztl
+> String: ***Hello World***                                                                   
+> Encryption level (Use negative numbers to decode): ***8***                            
+> Input:  HELLO WORLD                                               
+> Output: pmttwewztl                                                
