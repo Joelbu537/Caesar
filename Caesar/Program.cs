@@ -1,13 +1,13 @@
 ﻿using System;
+using System.IO;
 class Program
 {
     static void Main(string[] args)
     {
         string ALPHABET = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz";
         string space_type = "";
-        bool special_chars = false;
         Console.Title = "Caesar";
-        string config_path = Path.Combine(Directory.GetCurrentDirectory(), "\\config.cfg");
+        string config_path = Path.Combine(Directory.GetCurrentDirectory(), "config.cfg");
         int alphabet_length = 26;
         if (Path.Exists(config_path))
         {
@@ -86,7 +86,7 @@ class Program
                     }
                     if (input[i] == ' ')
                     {
-                        output += "-";
+                        output += space_type;
                     }
                     else
                     {
