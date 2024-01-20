@@ -8,7 +8,8 @@ Caesar can be used to de/encrypt simple string messages.
 
 ## How to use
 When launched for the first time, you are required to select some preferences(How to deal with blanks and special chars).
->Blanks don't work yet.
+> [!CAUTION]
+> Blanks don't work yet.
 
 Simply enter the phrase/string you want to work with and press enter.
 **To encrypt**, enter a encryption key of your favor(A number beween -25 and 25).
@@ -17,7 +18,7 @@ Caesar is going to process the phrase and pring the in -and output.
 
 ### Example
 
-***String:***  Hello World♪
-***Encryption level (Use negative numbers to decode):***  17♪
-***Input:  HELLO WORLD***♪
-***Output: yvccfnficu***♪
+***String:***  Hello World                                                             
+***Encryption level (Use negative numbers to decode):***  17                                         
+***Input:  HELLO WORLD***                                                 
+***Output: yvccfnficu***                                              
